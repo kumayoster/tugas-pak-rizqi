@@ -1,0 +1,16 @@
+.flag{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+}
+.putih{
+    background-color: white;
+    width: 400px;
+    height: 100px;
+}
+.merah{
+    width: 400px;
+    height: 100px;
+    background-color: red;
+}
